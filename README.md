@@ -36,4 +36,4 @@ history=model.fit(x_train, y_train, batch_size=batch, epochs=epochs,
 test_loss, test_accuracy=model.evaluate(x_test, y_test)
 print("Test Loss:", test_loss)
 print("Test Accuracy:", test_accuracy)
-```python
+
